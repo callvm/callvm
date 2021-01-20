@@ -5,7 +5,7 @@ Freelance fullstack developer, specializing in the MERN stack (Mongo, Express, R
 Skills: Java / Spring Boot / Javascript / React / Express / Node / Wordpress
 
 - 🔭 I’m currently working on a web-based cryptocurrency wallet, explorer and exchange based on EOSIO
-- 🌱 I’m learning more the Javascript eco-system
+- 🌱 I’m learning more about the Javascript eco-system
 - ⚡ Fun fact: I'm a huge cryptocurrency enthusiast.
 
 [![Callums's github stats](https://github-readme-stats.vercel.app/api?username=callvm&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true)](https://github.com/callvm/github-readme-stats)
